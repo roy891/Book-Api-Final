@@ -1,0 +1,8 @@
+/* body{
+    background-image: url(img/bookimg.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+} */
+.card img{
+    height: 200px;
+}
